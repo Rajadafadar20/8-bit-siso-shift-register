@@ -14,6 +14,7 @@ The design was simulated using a verilog testbench
 
 ## Files
 bit_siso_shift_reg.v
+bit_siso_shift_reg_tb.tb
 
 ## Author
 Raja Dafadar
