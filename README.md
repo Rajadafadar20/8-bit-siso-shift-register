@@ -12,3 +12,8 @@ Vivado
 ## simulation
 The design was simulated using a verilog testbench
 
+## Files
+'bit_siso_shift_reg.v'
+
+## Author
+Raja Dafadar
